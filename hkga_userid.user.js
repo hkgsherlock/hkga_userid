@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           HKGA User ID
+// @namespace      https://github.com/hkgsherlock/hkga_userid
 // @version        201405261200
 // @include        https://hkgalden.com/view/*
 // @include        http://hkgalden.com/view/*
