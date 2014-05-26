@@ -6,6 +6,8 @@
 // @require        http://code.jquery.com/jquery-1.10.2.min.js
 // ==/UserScript==
 
+// Idea from HKG Peach's "HKG Show User ID" userscript
+
 var $jq = jQuery.noConflict();
 
 var namaerinku = $jq("a.name");
