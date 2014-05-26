@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name           HKGA User ID
 // @namespace      https://github.com/hkgsherlock/hkga_userid
-// @version        201405261200
+// @version        201405270530
+// @description    Show User ID in HKGolden. Original idea from HKG's user "Peach".
 // @include        https://hkgalden.com/view/*
 // @include        http://hkgalden.com/view/*
 // @require        http://code.jquery.com/jquery-1.10.2.min.js
